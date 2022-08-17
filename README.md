@@ -40,7 +40,7 @@ Trabalho na área de programação desde 2021. Iniciei como aprendiz de PHP e ho
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://jesielwillianvieira1989@gmail.com)
 [<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/JWV1989)
 [<img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>](https://www.twitch.tv/jesiel1989)
-[<img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jesielwillianvieira@gmail.com)
+[<img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jesielwillian89@gmail.com)
 
 ## ⚙️ Análises
   
