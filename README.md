@@ -51,5 +51,3 @@ Trabalho na área de programação desde 2021. Iniciei como aprendiz de PHP e ho
 
 <!-- <img width="100%" src="https://github.com/jesielwillian/jesielwillian/blob/main/github-metrics.svg" /> -->
 <!-- ![Metrics](https://github.com/jesielwillian/jesielwillian/blob/main/metrics.plugin.achievements.svg) -->
-
-![Snake animation](https://github.com/jesielwillian/jesielwillian/blob/output/github-contribution-grid-snake.svg)
