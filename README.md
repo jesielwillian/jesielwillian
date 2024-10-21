@@ -8,7 +8,7 @@ Sou Desenvolvedor Web de Cândido Mota, São Paulo, e trabalho com desenvolvimen
 
 ## 💻 Trabalho com
 
-Trabalho na área de programação desde 2021. Iniciei como aprendiz de PHP e hoje considero que conheço uma ampla gama de estrutura de HTML, HTML5, CSS, CSS3, SASS, JavaScript, Wordpress, Python, PHP, e MySQL.
+Trabalho na área de programação desde 2021. Iniciei como aprendiz de PHP e hoje considero que conheço uma ampla gama de estrutura de HTML, HTML5, CSS, CSS3, JavaScript e Wordpress.
   
 ## 🚀 Tecnologias que eu uso no meu dia-a-dia.
 
