@@ -4,7 +4,7 @@
 
 ## 📍 Sobre mim
 
-Sou Desenvolvedor Web de Cândido Mota, São Paulo, e trabalho com desenvolvimento de sistemas e sites. Atendo clientes de toda a região de Cândido Mota, e do Brasil.
+Sou Desenvolvedor Web de Cândido Mota, São Paulo, e trabalho com desenvolvimento de sites. Atendo clientes de toda a região de Cândido Mota, e do Brasil.
 
 ## 💻 Trabalho com
 
@@ -17,11 +17,7 @@ Trabalho na área de programação desde 2021. Iniciei como aprendiz de PHP e ho
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Worpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 
 ## 🔰 Dados do Github
